@@ -47,9 +47,7 @@ node_modules/
 
 # Composer
 /vendor
-/composer.lock
-/composer.json
-/composer.local.json
+composer.phar
 
 # MediaWiki UI documentation
 /docs/kss/static
